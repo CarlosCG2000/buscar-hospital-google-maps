@@ -2,6 +2,16 @@
 
 ## NECESITAS TU PROPIA API KEY DE GOOGLE MAPS
 
+### PANTALLA PRINCIPAL
+<div align="center">
+  <img src="./img/principal.png" alt="Interfaz del proyecto" width="800"/>
+</div>
+
+### RUTA MÁS CERCANA
+<div align="center">
+  <img src="./img/secundaria.png" alt="Interfaz del proyecto" width="800"/>
+</div>
+
 ### HTML
 1_IMPORTAR BOOSTRAP Y LA API DE GOOGLE MAPS CON LA LIBRERIA DE BÚSQUEDA DE ESPACIOS (PONER TU PROPIA API KEY DE GOOGLE MAPS)
 
@@ -37,13 +47,3 @@
 10_DENTRO DEL EVENTO `DOMContentLoaded` LE DAMOS LOS VALORES AL DOM DEL NOMBRE Y LA DIRECCIÓN DEL HOSPITAL MAS CERCANO
 
 11_DENTRO DEL EVENTO `DOMContentLoaded` CREAMOS UN EVENTO PARA EL BOTON QUE NOS MUESTRE LA RUTA MAS CERCANA ENTRE LA UBICACIÓN NUESTRA (DEL USUARIO) Y LA DEL HOSPITAL MÁS CERCANO (VAMOS A TENER QUE USAR LA LIBRERIA DE DIRECTIONS SERVICES Y DIRECTIONS RENDERER)
-
-### PANTALLA PRINCIPAL
-<div align="center">
-  <img src="./img/principal.png" alt="Interfaz del proyecto" width="800"/>
-</div>
-
-### RUTA MÁS CERCANA
-<div align="center">
-  <img src="./img/secundaria.png" alt="Interfaz del proyecto" width="800"/>
-</div>
