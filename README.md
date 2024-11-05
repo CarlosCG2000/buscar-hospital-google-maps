@@ -29,7 +29,7 @@
 
 ### PANTALLA PRINCIPAL
 <div align="center">
-  <img src="./img/principal.png" alt="Interfaz del proyecto" width="500"/>
+  <img src="./img/principal.png" alt="Interfaz del proyecto" width="800"/>
 </div>
 
 ### RUTA MÁS CERCANA
